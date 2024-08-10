@@ -11,7 +11,7 @@
 
 <body>
     <h1>Trang chủ</h1>
-    <div class="mt-3">hello</div>
+    <div class="mt-3">hello dsdsdsd</div>
 </body>
 <script> @vite('resources/js/app.js') </script>
 </html>
